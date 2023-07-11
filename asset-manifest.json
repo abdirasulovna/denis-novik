@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/denis-novik/static/css/main.72f685a3.css",
+    "main.js": "/denis-novik/static/js/main.c7a79b19.js",
+    "static/media/denis.png": "/denis-novik/static/media/denis.9aee1a98764da5ee082a.png",
+    "static/media/denis2.png": "/denis-novik/static/media/denis2.8f3faca0052b2979ea66.png",
+    "index.html": "/denis-novik/index.html",
+    "static/media/burger.svg": "/denis-novik/static/media/burger.973721b6f3b14c650a7971210fce621b.svg",
+    "main.72f685a3.css.map": "/denis-novik/static/css/main.72f685a3.css.map",
+    "main.c7a79b19.js.map": "/denis-novik/static/js/main.c7a79b19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72f685a3.css",
+    "static/js/main.c7a79b19.js"
+  ]
+}
